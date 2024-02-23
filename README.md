@@ -18,9 +18,11 @@ Random-Phase Approximation(RPA) in matlab
 Physical Review B 102, 174509 (2020)
 
 (https://link.aps.org/doi/10.1103/PhysRevB.102.174509)
+
 Phys. Rev. B 99, 184506 (2019)
 
 (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.184506)
+
 Phys. Rev. Lett. 111, 066804 (2013).
 
 (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.066804)

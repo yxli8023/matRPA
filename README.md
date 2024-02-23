@@ -16,12 +16,16 @@ Random-Phase Approximation(RPA) in matlab
 
 相关参考文献
 Physical Review B 102, 174509 (2020)
+
 (https://link.aps.org/doi/10.1103/PhysRevB.102.174509)
 Phys. Rev. B 99, 184506 (2019)
+
 (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.184506)
 Phys. Rev. Lett. 111, 066804 (2013).
+
 (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.066804)
 
 # 联系
 https://github.com/ljcj007/matRPA/
+
 <ljcj007@ysu.edu.cn> or <ljcj007@163.com>.
